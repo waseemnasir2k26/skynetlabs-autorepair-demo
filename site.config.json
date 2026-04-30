@@ -1,0 +1,279 @@
+{
+  "brand": {
+    "name": "SkynetLabs Auto Repair Demo",
+    "tagline": "Dealer-grade European service. Without the dealer."
+  },
+  "niche": "autorepair",
+  "niche_label": "Auto Repair",
+  "location": {
+    "city": "Atlanta",
+    "region": "GA",
+    "country": "US"
+  },
+  "owner": {
+    "name": "Waseem Nasir",
+    "agency": "SkynetLabs",
+    "fiverr_url": "https://www.fiverr.com/agencies/skynetjoellc",
+    "hub_url": "https://skynetjoe.com",
+    "contact_email": "waseembali2k26@gmail.com",
+    "contact_phone": "+1-404-555-0231"
+  },
+  "palette": {
+    "bg": "#0F1115",
+    "surface": "#1A1D22",
+    "ink": "#EDE8DF",
+    "accent": "#B8893A",
+    "detail": "#7A2E2A"
+  },
+  "fonts": {
+    "display": "Instrument Serif",
+    "body": "Inter",
+    "mono": null
+  },
+  "dark_mode": true,
+  "hero": {
+    "kind": "photo",
+    "h1": "Dealer-grade service. *Without* the dealer.",
+    "sub": "ASE Master + Bosch-certified European specialists. Buckhead since 2008.",
+    "photo_url": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1920&auto=format&fit=crop&q=80",
+    "photo_credit": "Photo by Tyler Clemmensen on Unsplash",
+    "overlay": "rgba(0,0,0,0.30)",
+    "focal_point": "center"
+  },
+  "hero_3d": null,
+  "copy": {
+    "primary_cta": "Book a diagnostic →",
+    "primary_cta_href": "#contact",
+    "secondary_cta": "Call the shop (404) 555-0231",
+    "secondary_cta_href": "tel:+14045550231",
+    "sticky_mobile_bar": "Speak with a tech — (404) 555-0231"
+  },
+  "trust_strip": [
+    "ASE Master Technicians",
+    "Bosch Authorized Service Center",
+    "RepairPal Certified · BBB A+",
+    "AAA Approved Auto Repair",
+    "ISTA · XENTRY · ODIS Factory Tools"
+  ],
+  "service_area": {
+    "primary_city": "Atlanta, GA",
+    "service_area_cities": [
+      "Buckhead, GA",
+      "Midtown Atlanta, GA",
+      "Brookhaven, GA",
+      "Sandy Springs, GA",
+      "Dunwoody, GA",
+      "Vinings, GA",
+      "Smyrna, GA",
+      "Marietta, GA",
+      "Roswell, GA",
+      "Alpharetta, GA",
+      "Johns Creek, GA",
+      "Milton, GA",
+      "Decatur, GA",
+      "Druid Hills, GA",
+      "Virginia-Highland, GA",
+      "Inman Park, GA",
+      "Old Fourth Ward, GA",
+      "West Midtown, GA",
+      "Cumberland, GA",
+      "Vinings Estates, GA",
+      "Tucker, GA",
+      "Norcross, GA",
+      "Peachtree Corners, GA",
+      "Dunwoody Village, GA",
+      "Chamblee, GA",
+      "Doraville, GA",
+      "Druid Forest, GA",
+      "Cascade, GA",
+      "East Atlanta, GA",
+      "Grant Park, GA"
+    ]
+  },
+  "services": [
+    {
+      "slug": "european-diagnostic",
+      "title": "European Diagnostic + Coding",
+      "blurb": "Factory-level scan tools across BMW (ISTA), Mercedes-Benz (XENTRY/Star Diagnosis), Audi/VW/Porsche (ODIS), and Volvo (VIDA). We read every module — not just the one throwing a code — and code retrofits, software updates, and adaptations the same way the dealer does, at half the labor rate."
+    },
+    {
+      "slug": "performance-suspension",
+      "title": "Performance Suspension + Alignment",
+      "blurb": "Bilstein, KW, Öhlins, and OE-replacement suspension installs with corner-balancing on a Hunter HawkEye alignment rack. We dial in track-spec geometry for street use without making your wife's E-Class undriveable on I-285. Real numbers documented before and after."
+    },
+    {
+      "slug": "carbon-cleaning",
+      "title": "Carbon Cleaning + DI Service",
+      "blurb": "Direct-injection engines (BMW N54/N55/B58, Mercedes M276/M278, Audi 2.0T) carbon up the intake valves by 60K miles. We walnut-blast the valves at the proper interval, document with borescope before/after photos, and schedule the service preemptively — not after misfires start."
+    },
+    {
+      "slug": "brake-track-spec",
+      "title": "Brake + Rotor Track-Spec",
+      "blurb": "Pagid, Endless, Akebono, and OE pad selection matched to your car and how you actually drive. Stainless braided lines, Motul RBF600 fluid bleeds, and a documented bedding-in procedure. We do not install the cheapest pad and call it a brake job."
+    },
+    {
+      "slug": "pre-purchase-inspection",
+      "title": "Pre-Purchase Inspection",
+      "blurb": "Two-and-a-half-hour bumper-to-bumper inspection on any used European car you are considering. We pull all module codes, road-test for transmission learning, document fluid colors with photos, and call out the next 12 months of likely service. Single-page summary your seller cannot dispute."
+    },
+    {
+      "slug": "concierge-pickup",
+      "title": "Concierge Pickup + Delivery",
+      "blurb": "We come to your Buckhead, Midtown, or Sandy Springs office, swap your car for a comparable loaner, complete the service, and return it that evening. Used by clients who do not have time for a service drive — and by dealers who would rather we not see how they handle theirs."
+    }
+  ],
+  "process": [
+    {
+      "n": 1,
+      "title": "Concierge intake",
+      "blurb": "Pickup or service-drive arrival, written intake covering symptom, history, and any specific concerns. We do not start work without alignment on scope."
+    },
+    {
+      "n": 2,
+      "title": "Diagnostic + scope",
+      "blurb": "Factory tools across every module, written quote with OEM and OE-equivalent options. We name what we are using and why."
+    },
+    {
+      "n": 3,
+      "title": "Service + verification",
+      "blurb": "Work performed by an ASE Master assigned to European platforms — not rotated through general service. Post-service road test and recoded modules verified before delivery."
+    },
+    {
+      "n": 4,
+      "title": "3-yr / 36k warranty",
+      "blurb": "Parts and labor warranty written, transferable, and honored at our shop or any AAA-approved European specialist nationwide."
+    }
+  ],
+  "case_study": {
+    "title": "2018 BMW M3 (F80) — Carbon Service + Coilover Install + Track Setup",
+    "photo_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1920&auto=format&fit=crop&q=80",
+    "quote": "Had the BMW dealer quote me $11,400 for the same scope. Anthem did it for $6,800, on factory tools, with documentation I could hand to a buyer. Sold the car a year later with zero pricing pushback because the file was clean.",
+    "stats": [
+      {
+        "value": "$4,600",
+        "label": "Saved versus dealer quote"
+      },
+      {
+        "value": "ISTA-coded",
+        "label": "Modules verified post-service"
+      },
+      {
+        "value": "3 yr / 36k",
+        "label": "Parts + labor warranty"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Out-of-warranty E63 AMG. The Mercedes dealer wanted to replace the entire turbo assembly for fourteen thousand. Anthem diagnosed a single failed wastegate actuator, replaced it, and the car has run flawlessly for two years. Half the bill, full repair.",
+      "name": "Trent A.",
+      "role": "Buckhead executive",
+      "city": "Atlanta, GA"
+    },
+    {
+      "quote": "I track my Cayman GT4 at Road Atlanta four times a year. Anthem corner-balances the car, builds my track pad and fluid plan, and has never once tried to upsell me a service I did not need. They run the car like the dealer wishes they did.",
+      "name": "Whit P.",
+      "role": "Track-day enthusiast",
+      "city": "Sandy Springs, GA"
+    },
+    {
+      "quote": "Bought a 2014 Audi S5 sight-unseen from a Florida dealer. Anthem did the pre-purchase inspection over a long FaceTime call with the seller, found two issues the carfax missed, and I negotiated $3,200 off the asking. Single best money I have spent on a car.",
+      "name": "Carla R.",
+      "role": "Out-of-state buyer",
+      "city": "Decatur, GA"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will indie service void my BMW factory warranty?",
+      "a": "No — the federal Magnuson-Moss Warranty Act protects you. The dealer cannot void your warranty for using a qualified independent shop, provided the work meets manufacturer specifications. We use OEM parts where required and document every service with the same standard the dealer would. Bring us your warranty book if you want it walked through."
+    },
+    {
+      "q": "Do you have factory-level diagnostic tools?",
+      "a": "BMW ISTA (current version), Mercedes-Benz XENTRY (current Star Diagnosis), Audi/VW/Porsche ODIS, Volvo VIDA, Mini WDS, Land Rover JLR-SDD. All software is current-license. Anyone telling you their generic OBD-II scanner is 'just as good' has not tried to code an A/C compressor on a B58."
+    },
+    {
+      "q": "ASE Master + Bosch certified — what does that actually mean?",
+      "a": "ASE Master Technician requires passing all eight automotive ASE certifications and recertifying every five years. Bosch Authorized Service Center is a credentialed program limited to shops that meet equipment, training, and continuing-education requirements. Both are verifiable independently — and the count of shops carrying both in metro Atlanta is in the single digits."
+    },
+    {
+      "q": "Loaner car or shuttle in Buckhead/Midtown?",
+      "a": "Loaner fleet of 12 vehicles (Audi A4, BMW 5 Series, Mercedes E-Class) for clients with active service tickets. Shuttle service to and from any Buckhead, Midtown, Brookhaven, or Sandy Springs office at no charge. Concierge pickup and delivery on request."
+    },
+    {
+      "q": "OEM versus OE versus aftermarket parts — your default?",
+      "a": "OEM (original equipment manufacturer, dealer-branded) for any electronic module or factory-warranted assembly. OE-equivalent (same supplier, no dealer logo) for everything else. Aftermarket only when you specifically request it and we agree the part is appropriate. We name the brand and part number on every invoice."
+    },
+    {
+      "q": "Pre-purchase inspection turnaround and what it includes?",
+      "a": "Two and a half hours, $295 flat. Full module scan, fluid analysis, suspension and steering check, brake and tire wear documentation, road test, written report with photos. Any car bought without one — especially anything German with more than 60K miles — is gambling, and we will tell you so."
+    },
+    {
+      "q": "Carbon buildup on direct-injection engines — when to clean?",
+      "a": "BMW N54/N55: every 60K to 80K miles. B58: 80K to 100K miles. Mercedes M276/M278: 70K to 90K miles. Audi/VW 2.0T (EA888): 50K to 70K miles depending on driving habits. We borescope and document at the recommendation point — if it is clean, we wait. If it is not, we walnut-blast."
+    },
+    {
+      "q": "Do you flat-rate or hourly, and what's posted labor rate?",
+      "a": "Mixed. Routine service is flat-rate by manufacturer time guide. Diagnostic and atypical repairs are hourly, posted at $185 per hour for European specialists. We do not pad estimates and we do not start work without a written quote you have approved."
+    }
+  ],
+  "lead_magnet": {
+    "title": "The European Specialist Buyer's Guide",
+    "subtitle": "How to vet an indie shop that actually has factory tools. 16 pages, dealer comparison spreadsheet included.",
+    "cta": "Get the guide →"
+  },
+  "photos": {
+    "hero": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=1920&auto=format&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1493238792000-8113da705763?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1542362567-b07e54358753?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1597007029837-bd5e6b69a8ae?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1547038577-da80abbc4f19?w=1280&auto=format&fit=crop&q=80"
+    ]
+  },
+  "competitors": [
+    "https://blueridgeauto.co",
+    "https://www.anthemauto.com",
+    "https://roccoseuropeangarage.com",
+    "https://www.apollonautorepair.com",
+    "https://kandmautorepairs.net"
+  ],
+  "anti_patterns": [
+    "Checkered-flag/chrome racing-template hero",
+    "Stock photo of a wrench on a dollar bill",
+    "Auto-playing dyno-roar audio"
+  ],
+  "modules": {
+    "booking_calendar": true,
+    "service_area_map": true,
+    "photo_gallery": true,
+    "faq": true,
+    "lead_magnet": true
+  },
+  "contact": {
+    "form_endpoint": "https://api.web3forms.com/submit",
+    "calendly_url": "https://calendly.com/skynetlabs-demo/15min"
+  },
+  "seo": {
+    "title": "European Auto Repair Atlanta | BMW · Mercedes · Audi · Porsche | SkynetLabs",
+    "description": "Dealer-grade European service in Buckhead. ASE Master + Bosch certified, factory diagnostic tools, 3-year/36k warranty.",
+    "keywords": [
+      "european auto repair atlanta",
+      "bmw service buckhead",
+      "mercedes service atlanta",
+      "porsche specialist atlanta",
+      "ase master atlanta"
+    ],
+    "noindex": true
+  },
+  "demo_disclosure": {
+    "enabled": true,
+    "fiverr_cta_url": "https://www.fiverr.com/agencies/skynetjoellc?utm_source=demo&utm_campaign=autorepair",
+    "contact_cta_url": "https://skynetjoe.com/contact?utm_source=demo&utm_campaign=autorepair",
+    "portfolio_url": "https://skynetjoe.com/portfolio"
+  }
+}
